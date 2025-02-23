@@ -1,0 +1,7 @@
+# Ignore node_modules for both mobile & server
+node_modules/
+.expo/
+android/
+ios/
+.env
+
