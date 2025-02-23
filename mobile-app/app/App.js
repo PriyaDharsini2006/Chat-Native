@@ -15,7 +15,7 @@ import Constants from 'expo-constants';
 
 // Replace with your server URL
 
-const SOCKET_URL = 'http://192.168.251.147:3002';
+const SOCKET_URL = 'http://your-computer-ip:3002';
 export default function App() {
   const [messages, setMessages] = useState([]);
   const [messageText, setMessageText] = useState('');
